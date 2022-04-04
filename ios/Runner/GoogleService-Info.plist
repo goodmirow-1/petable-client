@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>321996704164-c3cl7ieamfa79mis3pvtdhd7umm8atqa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.321996704164-c3cl7ieamfa79mis3pvtdhd7umm8atqa</string>
+    <key>ANDROID_CLIENT_ID</key>
+    <string>321996704164-jdbbeu79klqr7evq9s0ehucdl76b2d9i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCc5T8DWfGQdOx-27Sx4YNUcii4KlBL-54</string>
+	<key>GCM_SENDER_ID</key>
+	<string>321996704164</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.myvef.bowlsApp</string>
+	<key>PROJECT_ID</key>
+	<string>myvef-bowl</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myvef-bowl.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:321996704164:ios:5ec1a6078bfc88c3979931</string>
+</dict>
+</plist>

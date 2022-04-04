@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>마이베프</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>myvef_app</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.321996704164-c3cl7ieamfa79mis3pvtdhd7umm8atqa</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>kakao9f1779a501c2421d91a839f261aa811c</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.myvef.bowlsApp</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>myvefapp.page.link</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>KAKAO_APP_KEY</key>
+	<string>9f1779a501c2421d91a839f261aa811c</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>kakao${8c4efefeb2cbdbcdf329ee31458dcaa4}</string>
+		<string>kakaokompassauth</string>
+		<string>storykompassauth</string>
+		<string>kakaolink</string>
+		<string>kakaotalk-5.9.7</string>
+		<string>kftc-bankpay</string>
+		<string>ispmobile</string>
+		<string>itms-apps</string>
+		<string>hdcardappcardansimclick</string>
+		<string>smhyundaiansimclick</string>
+		<string>shinhan-sr-ansimclick</string>
+		<string>smshinhanansimclick</string>
+		<string>kb-acp</string>
+		<string>mpocket.online.ansimclick</string>
+		<string>ansimclickscard</string>
+		<string>ansimclickipcollect</string>
+		<string>vguardstart</string>
+		<string>samsungpay</string>
+		<string>scardcertiapp</string>
+		<string>lottesmartpay</string>
+		<string>lotteappcard</string>
+		<string>cloudpay</string>
+		<string>nhappcardansimclick</string>
+		<string>nonghyupcardansimclick</string>
+		<string>citispay</string>
+		<string>citicardappkr</string>
+		<string>citimobileapp</string>
+		<string>kakaotalk</string>
+		<string>payco</string>
+		<string>lpayapp</string>
+		<string>hanamopmoasign</string>
+		<string>wooripay</string>
+		<string>nhallonepayansimclick</string>
+		<string>hanawalletmembers</string>
+		<string>chaipayment</string>
+		<string>kb-auth</string>
+		<string>hyundaicardappcardid</string>
+		<string>com.wooricard.wcard</string>
+		<string>lmslpay</string>
+		<string>lguthepay-xpay</string>
+		<string>liivbank</string>
+		<string>supertoss</string>
+		<string>newsmartpib</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>애플 뮤직에 접근을 허용하시겠습니까?</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>블루투스에 접근을 허용하시겠습니까?</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>주변의 블루투스 기기 사용을 허용하시겠습니까?</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>달력에 접근을 허용하시겠습니까?</string>
+	<key>NSCameraUsageDescription</key>
+	<string>프로필 및 커뮤니티에 사진을 등록하기 위해 카메라에 접근합니다.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>연락처에 접근을 허용하시겠습니까?</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>wifi 정보에 접근하기 위해서는 위치접근 허용이 필요합니다. 허용하시겠습니까?</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>wifi 정보에 접근하기 위해서는 위치접근 허용이 필요합니다. 허용하시겠습니까?</string>
+	<key>NSLocationTemporaryUsageDescriptionDictionary</key>
+	<dict>
+		<key>YourPurposeKey</key>
+		<string>The example App requires temporary access to the device's precise location.</string>
+	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>사용자 위치에 접근을 허용하시겠습니까?</string>
+	<key>NSMotionUsageDescription</key>
+	<string>모션에 접근을 허용하시겠습니까?</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>프로필 및 커뮤니티에 사진을 업로드하기 위해 사진 라이브러리에 접근합니다.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>프로필 및 커뮤니티에 사진을 업로드하기 위해 사진 라이브러리에 접근합니다.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>말하기 녹음에 접근을 허용하시겠습니까?</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>WKRunsIndependentlyOfCompanionApp</key>
+	<false/>
+	<key>com.apple.developer.networking.wifi-info</key>
+	<string></string>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>음악에 접근을 허용하시겠습니까?</string>
+</dict>
+</plist>
